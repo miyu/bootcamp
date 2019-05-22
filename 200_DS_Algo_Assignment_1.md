@@ -85,6 +85,6 @@ Read into hierarchical CPU caches: https://en.wikipedia.org/wiki/CPU_cache ... a
 
 **Program 4: Benchmark the performance of your ArrayList vs .NET's built-in List of T. Which is faster/slower? Do a similar performance test for your hashmap. [15 points]**
 
-**Q5: Find .NET's List and Dictionary source code (hint: it's on github). Why is their Array-List about the same speed as yours (hopefully)? Why is their Dictionary likely faster than yours by far? Try to fully understand the implementations. [35 points]**
+**Q5: Find .NET's List and Dictionary source code (hint: it's on github). Why is their Array-List about the same speed as yours (hopefully)? Why is their Dictionary likely faster than yours by far? Try to fully understand the implementations. [20 points]**
 
-**Program 5: Experimentally verify the performance characteristics of O(1) vs O(N) operations (1. appending to a list vs accessing it 2. for a new hashmap, inserting N entries, then looking up the values for a key). Graph the performance for collections of size from 0 to 1000000. You should notice various "cliffs" in your graph. What causes these? [20 points]**
+**Program 5: Experimentally verify the performance characteristics of O(1) vs O(N) operations (1. appending to a list vs accessing it 2. for a new hashmap, inserting N entries, then looking up the values for a key). Graph the performance for collections of size from 0 to 1000000. You should notice various "cliffs" in your graph. What causes these? [35 points]**
