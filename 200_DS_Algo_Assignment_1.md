@@ -1,4 +1,4 @@
-## Data Structures Assignment 1 [115 points]
+## Data Structures Assignment 1 [180 points]
 
 Warm-up time. This is a prereq to any serious coding.
 
@@ -69,7 +69,7 @@ Skim these links:
 **Question 4d: What is double hashing? How might it improve performance of open addressing over quadratic probing? [5 points]**  
 **Question 4e: How might one implement a hashset leveraging a hashmap? [5 points]**  
 
-**Implement a separate-chaining-based hashmap in C# or C++ with the following operations: [10 points]**
+**Program 2: Implement a separate-chaining-based hashmap in C# or C++ with the following operations: [10 points]**
 
 - new(): HashMap<TKey, TValue>
 - add(k: TKey, v: TValue): void
@@ -78,4 +78,10 @@ Skim these links:
 - get(k: TKey): TValue
 - keys(): TKey[]
 
-**Implement a open-addressing-based hashmap in C# or C++ with the same operations as above [15 points]**
+**Program 3: Implement a open-addressing-based hashmap in C# or C++ with the same operations as above [15 points]**
+
+# Assignment: Dive into .NET Framework's ArrayList & HashMap implementations. [50 points]
+
+**Program 4: Benchmark the performance of your ArrayList vs .NET's built-in List of T. Which is faster/slower? Do a similar performance test for your hashmap. [15 points]**
+
+**Q5: Find .NET's List and Dictionary source code (hint: it's on github). Why is their Array-List about the same speed as yours (hopefully)? Why is their Dictionary likely faster than yours by far? Try to fully understand the implementations. [35 points]**
