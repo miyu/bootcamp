@@ -1,4 +1,4 @@
-## Networking Assignment [100 points + 35 EC]
+## Networking Project 1 [100 points + 35 EC]
 
 Deliverable: Answers to questions & C++/Python programs.
 
@@ -44,13 +44,13 @@ Program 1 - TCP & Python [10 points]
 - Reference https://www.geeksforgeeks.org/simple-chat-room-using-python to implement a TCP-based chatroom in python.
 
 Program 2 - TCP & C/C++ [10 points]
-- Port your TCP python chat server to C++.
+- Port your TCP python chatroom (client & server) to C++.
 
 Program 3 - UDP & Python [10 points]
 - Reference https://tutorialedge.net/python/udp-client-server-python/ to implement a UDP-based chatroom in python.
 
 Program 4 - TCP & C/C++ [10 points]
-- Port your UDP python chat server to C++.
+- Port your UDP python chatroom to C++.
 
 ## Extra Credit
 
